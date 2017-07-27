@@ -4,10 +4,10 @@ import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
 import { Main } from './modules/main'
 
-import image from './modules/osiedle_slonecznikowe_5-1500x630.jpg'
+import image from './modules/slonecznikowe_5-1500x630.jpg'
 import slonecznik from './modules/sloneczniki.png'
-import  img1  from './modules/osiedle_slonecznikowe_1.jpg'
-import  img2  from './modules/osiedle_slonecznikowe_2-1.jpg'
+import  img1  from './modules/slonecznikowe_1.jpg'
+import  img2  from './modules/slonecznikowe_2-1.jpg'
 
 
 
